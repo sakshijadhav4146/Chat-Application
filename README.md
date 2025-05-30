@@ -1,4 +1,4 @@
-![Screenshot 2025-05-15 215721](https://github.com/user-attachments/assets/8aa0cd6b-6ecd-4af0-8ec5-d295f2793a64)# 💬 Chit Chat - Real-time Chat Application
+# 💬 Chit Chat - Real-time Chat Application
 
 Chit Chat is a real-time chat application built with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Socket.IO**. It supports **one-to-one chats**, **group conversations**, **typing indicators**, **notifications**, and more.
 
